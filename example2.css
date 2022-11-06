@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+header{
+    background-color: rgb(206, 20, 20);
+}
+
+div{
+    position: relative;
+}
+div nav{
+    text-align: center;
+    background-color: antiquewhite;
+    width: 23vw;
+    height: 43vh;
+}
